@@ -2,7 +2,7 @@
   "name": "bookstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ratsamee.github.io/bookstore",
+  "homepage": "https://Ratsamee.github.io/bookstore/",
   "dependencies": {
     "@commitlint/cli": "8.1.0",
     "@commitlint/config-conventional": "8.1.0",
